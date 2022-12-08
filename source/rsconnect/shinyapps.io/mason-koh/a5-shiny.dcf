@@ -1,0 +1,13 @@
+name: a5-shiny
+title: a5-shiny
+username:
+account: mason-koh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7840505
+bundleId: 6609414
+url: https://mason-koh.shinyapps.io/a5-shiny/
+when: 1670487912.74647
+lastSyncTime: 1670487912.7465
+asMultiple: FALSE
+asStatic: FALSE
